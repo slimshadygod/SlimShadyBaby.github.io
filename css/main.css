@@ -185,7 +185,7 @@ th {
 }
 body {
   position: relative;
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Roboto Slab', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 14px;
   line-height: 2;
   color: #555;
@@ -216,7 +216,7 @@ h6 {
   padding: 0;
   font-weight: bold;
   line-height: 1.5;
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Roboto Slab', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 h2,
 h3,
@@ -544,7 +544,6 @@ pre code {
   background-color: #eff2f3;
 }
 .highlight .code pre {
-  width: 100%;
   padding-left: 10px;
   padding-right: 10px;
   background-color: #f7f7f7;
@@ -741,7 +740,6 @@ pre .javascript .function {
 .note h6 {
   margin-top: 0;
   margin-bottom: 5px;
-  padding-top: 0 !important;
 }
 .note p:last-child {
   margin-bottom: 0;
@@ -959,7 +957,7 @@ pre .javascript .function {
   bottom: 30px;
 }
 .header {
-  background: transparent;
+  background: #fff;
 }
 .header-inner {
   position: relative;
@@ -1000,7 +998,7 @@ pre .javascript .function {
   line-height: 36px;
   font-size: 20px;
   font-weight: normal;
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Roboto Slab', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 .site-subtitle {
   margin-top: 10px;
@@ -1089,7 +1087,7 @@ pre .javascript .function {
   opacity: 0;
 }
 .post-body {
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Roboto Slab', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 @media (max-width: 767px) {
   .post-body {
@@ -1129,17 +1127,11 @@ pre .javascript .function {
   .posts-expand {
     margin: 0 20px;
   }
-  .post-body pre {
+  .post-body pre,
+  .post-body .highlight {
     padding: 10px;
   }
-  .post-body pre .gutter pre {
-    padding-right: 10px;
-  }
-  .post-body .highlight {
-    margin-left: 0px;
-    margin-right: 0px;
-    padding: 0;
-  }
+  .post-body pre .gutter pre,
   .post-body .highlight .gutter pre {
     padding-right: 10px;
   }
@@ -1229,13 +1221,11 @@ pre .javascript .function {
   position: relative;
   margin: 60px 0;
 }
-.posts-collapse .collection-title h1,
 .posts-collapse .collection-title h2 {
   margin-left: 20px;
 }
 .posts-collapse .collection-title small {
   color: #bbb;
-  margin-left: 5px;
 }
 .posts-collapse .collection-title::before {
   content: " ";
@@ -1362,7 +1352,7 @@ pre .javascript .function {
 .posts-expand .post-meta {
   margin: 3px 0 60px 0;
   color: #999;
-  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-family: 'Roboto Slab', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
   text-align: center;
 }
@@ -1377,9 +1367,6 @@ pre .javascript .function {
 .posts-expand .post-meta .post-description {
   font-size: 14px;
   margin-top: 2px;
-}
-.post-wordcount {
-  display: inline-block;
 }
 .post-meta-divider {
   margin: 0 0.5em;
@@ -1411,6 +1398,26 @@ pre .javascript .function {
   .posts-expand .post-comments-count {
     display: none;
   }
+}
+.social-like {
+  font-size: 14px;
+  height: 20px;
+  text-align: center;
+  border-top: 1px solid #eee;
+  padding-top: 9px;
+  margin-top: 45px;
+  display: flex;
+  justify-content: center;
+}
+.vk_like {
+  width: 85px;
+  height: 21px;
+  padding-top: 7px;
+  align-self: center;
+}
+.fb_like {
+  height: 30px;
+  align-self: center;
 }
 .post-button {
   margin-top: 50px;
@@ -1678,7 +1685,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #26ffe8;
+  background: #c16b7c;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2083,9 +2090,6 @@ pre .javascript .function {
 .jiathis_style a {
   border: none;
 }
-.fa {
-  font-family: FontAwesome !important;
-}
 .post-spread {
   margin-top: 20px;
   text-align: center;
@@ -2147,6 +2151,7 @@ pre .javascript .function {
 }
 .local-search-popup .search-keyword {
   border-bottom: 1px dashed #f00;
+  font-size: 14px;
   font-weight: bold;
   color: #f00;
 }
@@ -2165,7 +2170,7 @@ pre .javascript .function {
 }
 .local-search-popup .local-search-input-wrapper {
   display: inline-block;
-  width: calc(100% - 90px);
+  width: calc(100% - 60px);
   height: 36px;
   line-height: 36px;
   padding: 0 5px;
@@ -2187,8 +2192,6 @@ pre .javascript .function {
   color: #999;
   height: 36px;
   width: 18px;
-  padding-left: 10px;
-  padding-right: 10px;
 }
 .local-search-popup .search-icon {
   float: left;
@@ -2197,6 +2200,7 @@ pre .javascript .function {
   border-left: 1px solid #eee;
   float: right;
   cursor: pointer;
+  padding-left: 10px;
 }
 .local-search-popup #no-result {
   position: absolute;
@@ -2591,15 +2595,13 @@ pre .javascript .function {
 @media (min-width: 768px) and (max-width: 991px) {
   .footer-inner {
     width: auto;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+    padding-left: 0;
   }
 }
 @media (max-width: 767px) {
   .footer-inner {
     width: auto;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+    padding-left: 0;
   }
 }
 .sidebar-position-right .header-inner {
