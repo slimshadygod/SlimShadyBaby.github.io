@@ -14,7 +14,6 @@ categories:
 - 编程算法
 ---
 
-> 关注公众号【算法码上来】，每日算法干货马上就来！
 
 ![](/medias/contact.jpg)
 
@@ -53,34 +52,34 @@ categories:
 
 我觉得还是英文维基百科讲的比较详细、严谨。如果大家看的比较累的话，可以自己百度搜索相应的教程。
 
-**冒泡排序**  
+**冒泡排序**
 [https://en.wikipedia.org/wiki/Bubble_sort](https://en.wikipedia.org/wiki/Bubble_sort)
 
-**选择排序**  
+**选择排序**
 [https://en.wikipedia.org/wiki/Selection_sort](https://en.wikipedia.org/wiki/Selection_sort)
 
-**插入排序**  
+**插入排序**
 [https://en.wikipedia.org/wiki/Insertion_sort](https://en.wikipedia.org/wiki/Insertion_sort)
 
-**快速排序**  
+**快速排序**
 [https://en.wikipedia.org/wiki/Quicksort](https://en.wikipedia.org/wiki/Quicksort)
 
-**归并排序**  
+**归并排序**
 [https://en.wikipedia.org/wiki/Merge_sort](https://en.wikipedia.org/wiki/Merge_sort)
 
-**希尔排序**  
+**希尔排序**
 [https://en.wikipedia.org/wiki/Shellsort](https://en.wikipedia.org/wiki/Shellsort)
 
-**计数排序**  
+**计数排序**
 [https://en.wikipedia.org/wiki/Counting_sort](https://en.wikipedia.org/wiki/Counting_sort)
 
-**基数排序**  
+**基数排序**
 [https://en.wikipedia.org/wiki/Radix_sort](https://en.wikipedia.org/wiki/Radix_sort)
 
-**桶排序**  
+**桶排序**
 [https://en.wikipedia.org/wiki/Bucket_sort](https://en.wikipedia.org/wiki/Bucket_sort)
 
-**堆排序**  
+**堆排序**
 [https://en.wikipedia.org/wiki/Heapsort](https://en.wikipedia.org/wiki/Heapsort)
 
 ## 代码实现
