@@ -6,7 +6,7 @@ toc: true
 mathjax: true
 date: 2020-08-11 13:33:24
 password:
-summary:
+summary: hexo + github pages 搭建个人博客简略教程
 tags:
 - blog
 - hexo
@@ -16,12 +16,19 @@ categories:
 ---
 
 ## 目录结构
+
 - 安装node.js
 - 安装git
 - 注册github账号
 - 安装hexo
 - 写文章、发布文章
 - 绑定域名
+
+## 安装git
+
+1. 生成新的`SSH Key`
+
+> ssh-keygen -t rsa -b 4096 -C "您的Github邮箱地址"
 
 ## 绑定域名
 
