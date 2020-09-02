@@ -6,7 +6,7 @@ toc: true
 mathjax: true
 date: 2020-08-25 11:54:12
 password:
-summary:
+summary: docker和jenkins持续集成教程
 tags:
 - jenkins
 - docker
@@ -139,7 +139,9 @@ docker.io/jenkinsci/blueocean:latest
     -p 50000:50000 \
     -v jenkins-data:/var/jenkins_home \
     -v /var/run/docker.sock:/var/run/docker.sock \
-    jenkinsci/blueocean
+    --restart=always \
+    jenkinsci/blueocean \
+    /bin/bash
     ```
 
     * `-u`: 创建容器时使用的用户
@@ -149,7 +151,9 @@ docker.io/jenkinsci/blueocean:latest
     * `-p`(`--publish`): 第一个,将`jenkinsci/blueocean`容器的端口8080 映射（即“发布”）到主机上的端口8080。第一个数字表示主机上的端口，而最后一个数字表示容器的端口。因此，如果您-p 49000:8080为此选项指定，则将通过端口49000访问主机上的Jenkins。
     * `-p`: 第二个,是有多个jenkins服务时，主备之间通信使用的，单个机器可以不用
     * `-v`: 第一个，将容器的/var/jenkins_home目录，映射到本机的jenkins-data目录（如果没有这个选项，jenkins的历史数据将不会保存，每次启动都是新的），jenkins-data目录如果不存在，会自动创建
+    * `--restart=always` 重启docker,container也会自动重启
     * `jenkinsci/blueocean`: jenkins images，如果不存在，会自动下载，所以这个一定要和自己下载的镜像名称一致，不然会下载其他的jenkins images
+    * `/bin/bash` 自动进入容器内部
 
 2. 创建实例
 
