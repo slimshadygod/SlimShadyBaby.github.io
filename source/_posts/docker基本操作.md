@@ -244,3 +244,45 @@ systemctl 是系统服务管理器指令
     ``` bash
     sudo docker load -i [file_name.tar]
     ```
+
+## docker仓库的搭建
+
+1. 拉取registry镜像
+
+    ``` bash
+    sudo docker pull registery
+    ```
+
+2. 运行
+
+    ``` bash
+    sudo docker run -di --name registry -p 5000:5000 registry
+    ```
+
+3. 添加信任
+
+    ``` bash
+    1. vi /etc/docker/deamon.json
+
+    2. 添加
+    {
+        "insecure-registries": ["xxxx:5000"]
+    }
+    xxx表示宿主机的ip地址
+
+    3. 重启服务
+    sudo systemctl restart docker
+    ```
+
+4. 将镜像上传到私有仓库
+
+    ``` bash
+    1. 打tag
+    sudo docker tag [iamge_id] [ip_address]:[port]/[image_id]
+    eg: sudo docker tag jdk-1.8 192.168.100.11:5000/jdk-1.8
+
+    2. 上传
+    sudo docker push [ip_address]:[port]/[image_id]
+    eg: sudo docker psuh 192.168.100.11:5000/jdk-1.8
+
+    ```
