@@ -13,12 +13,14 @@ categories:
 - python
 ---
 
-# 绘制简单的图表
+## 绘制简单的图表
 
-## 安装
+### 安装
+
 `` pip install --user matplotlib`
 
-## 绘制一个折线图
+### 绘制一个折线图
+
 ``` python
 import matplotlib.pyplot as plt
 
@@ -28,4 +30,4 @@ if __name__ == "__main__":
     fig, ax = plt.subplots() // fig表示整张图片, ax表示图片中的图表
     ax.plot(squares)
     plt.show()
-···
+```

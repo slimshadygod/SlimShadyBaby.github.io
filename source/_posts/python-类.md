@@ -13,11 +13,12 @@ categories:
 - python
 ---
 
-# 类的初始化
+## 类的初始化
 
-## __init__
+### __init__
 
 python类初始化默认会调用`__init__`方法
+
 ``` python
 class Car(object):
     def __init__(self, model, year):
@@ -25,7 +26,7 @@ class Car(object):
         self.year = year
 ```
 
-## 权限控制
+### 权限控制
 
 1. 默认情况下,`__init__`中的属性是可以被修改的
 2. python中让属性变成`private`的方法是在属性前加两个下划线
@@ -79,9 +80,9 @@ if __name__ == "__main__":
 the car model is yadi, year is 4
 ```
 
-# 类的继承
+## 类的继承
 
-## 类的属性
+### 类的属性
 
 1. 私有的`privite`: 使用两个下划线表示 `self.__year`
 该属性不能被子类和实例对象方法
@@ -90,7 +91,7 @@ the car model is yadi, year is 4
 3. 公共的`public`: 没有下换线开头的 `self.year`
 该属性可以被子类及实例对象访问
 
-## 继承父类的构造方法
+### 继承父类的构造方法
 
 ``` python
 class Car(object):
@@ -127,7 +128,7 @@ if __name__ == "__main__":
 the electric car desined by tesla, model is model s, created by 2020, battery_size is 75
 ```
 
-## 重写父类的方法
+### 重写父类的方法
 
 给父类添加一个`to_string`的方法
 
