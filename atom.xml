@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>秒速五厘米</title>
+  
+  <subtitle>樱花飘落的速度，是秒速五厘米</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://slimshadybaby.github.io/"/>
+  <updated>2020-12-15T10:09:14.994Z</updated>
+  <id>https://slimshadybaby.github.io/</id>
+  
+  <author>
+    <name>SlimShady</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mysql基本操作</title>
+    <link href="https://slimshadybaby.github.io/2020/11/30/mysql-ji-ben-cao-zuo/"/>
+    <id>https://slimshadybaby.github.io/2020/11/30/mysql-ji-ben-cao-zuo/</id>
+    <published>2020-11-30T13:57:30.000Z</published>
+    <updated>2020-12-15T10:09:14.994Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Mysq基本操作&quot;&gt;&lt;a href=&quot;#Mysq基本操作&quot; class=&quot;headerlink&quot; title=&quot;Mysq基本操作&quot;&gt;&lt;/a&gt;Mysq基本操作&lt;/h2&gt;&lt;h3 id=&quot;创建数据库&quot;&gt;&lt;a href=&quot;#创建数据库&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="mysql" scheme="https://slimshadybaby.github.io/categories/mysql/"/>
+    
+    
+      <category term="mysql" scheme="https://slimshadybaby.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>windows安装mysql5.7</title>
+    <link href="https://slimshadybaby.github.io/2020/11/30/windows-an-zhuang-mysql5-7/"/>
+    <id>https://slimshadybaby.github.io/2020/11/30/windows-an-zhuang-mysql5-7/</id>
+    <published>2020-11-30T13:06:46.000Z</published>
+    <updated>2020-12-15T10:09:14.999Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;下载mysql&quot;&gt;&lt;a href=&quot;#下载mysql&quot; class=&quot;headerlink&quot; title=&quot;下载mysql&quot;&gt;&lt;/a&gt;下载mysql&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;进入&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="mysql" scheme="https://slimshadybaby.github.io/categories/mysql/"/>
+    
+    
+      <category term="mysql" scheme="https://slimshadybaby.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>github克隆太慢问题</title>
+    <link href="https://slimshadybaby.github.io/2020/11/30/github-ke-long-tai-man-wen-ti/"/>
+    <id>https://slimshadybaby.github.io/2020/11/30/github-ke-long-tai-man-wen-ti/</id>
+    <published>2020-11-30T13:06:27.000Z</published>
+    <updated>2020-12-15T10:09:14.990Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;解决github克隆太慢的问题&quot;&gt;&lt;a href=&quot;#解决github克隆太慢的问题&quot; class=&quot;headerlink&quot; title=&quot;解决github克隆太慢的问题&quot;&gt;&lt;/a&gt;解决github克隆太慢的问题&lt;/h2&gt;&lt;h3 id=&quot;思路&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="github" scheme="https://slimshadybaby.github.io/categories/github/"/>
+    
+    
+      <category term="github" scheme="https://slimshadybaby.github.io/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>kafka-java-api</title>
+    <link href="https://slimshadybaby.github.io/2020/11/17/kafka-java-api-001/"/>
+    <id>https://slimshadybaby.github.io/2020/11/17/kafka-java-api-001/</id>
+    <published>2020-11-17T15:54:13.000Z</published>
+    <updated>2020-12-15T10:09:14.993Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;生产者&quot;&gt;&lt;a href=&quot;#生产者&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="kafka" scheme="https://slimshadybaby.github.io/categories/kafka/"/>
+    
+    
+      <category term="kafka" scheme="https://slimshadybaby.github.io/tags/kafka/"/>
+    
+      <category term="java" scheme="https://slimshadybaby.github.io/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>kafka安装</title>
+    <link href="https://slimshadybaby.github.io/2020/11/17/kafka-an-zhuang/"/>
+    <id>https://slimshadybaby.github.io/2020/11/17/kafka-an-zhuang/</id>
+    <published>2020-11-17T13:58:09.000Z</published>
+    <updated>2020-12-15T10:09:14.994Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;官网下载地址：&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="kafka" scheme="https://slimshadybaby.github.io/categories/kafka/"/>
+    
+    
+      <category term="kafka" scheme="https://slimshadybaby.github.io/tags/kafka/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git常用命令</title>
+    <link href="https://slimshadybaby.github.io/2020/11/17/git-chang-yong-ming-ling/"/>
+    <id>https://slimshadybaby.github.io/2020/11/17/git-chang-yong-ming-ling/</id>
+    <published>2020-11-17T02:02:13.000Z</published>
+    <updated>2020-12-15T10:09:14.991Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;合并commit&quot;&gt;&lt;a href=&quot;#合并commit&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="git" scheme="https://slimshadybaby.github.io/categories/git/"/>
+    
+    
+      <category term="git" scheme="https://slimshadybaby.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>zookeeper-Java-Api</title>
+    <link href="https://slimshadybaby.github.io/2020/11/15/zookeeper-java-api-001/"/>
+    <id>https://slimshadybaby.github.io/2020/11/15/zookeeper-java-api-001/</id>
+    <published>2020-11-15T10:12:32.000Z</published>
+    <updated>2020-12-15T10:09:15.001Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;创建会话&quot;&gt;&lt;a href=&quot;#创建会话&quot; class=&quot;headerlink&quot; title=&quot;创建会话&quot;&gt;&lt;/a&gt;创建会话&lt;/h2&gt;&lt;h3 id=&quot;创建基本的会话&quot;&gt;&lt;a href=&quot;#创建基本的会话&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="zookeeper" scheme="https://slimshadybaby.github.io/categories/zookeeper/"/>
+    
+    
+      <category term="java" scheme="https://slimshadybaby.github.io/tags/java/"/>
+    
+      <category term="zookeeper" scheme="https://slimshadybaby.github.io/tags/zookeeper/"/>
+    
+      <category term="分布式" scheme="https://slimshadybaby.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>zookeeper节点操作</title>
+    <link href="https://slimshadybaby.github.io/2020/11/15/zookeeper-jie-dian-cao-zuo/"/>
+    <id>https://slimshadybaby.github.io/2020/11/15/zookeeper-jie-dian-cao-zuo/</id>
+    <published>2020-11-15T09:35:21.000Z</published>
+    <updated>2020-12-15T10:09:15.003Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;创建&quot;&gt;&lt;a href=&quot;#创建&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="zookeeper" scheme="https://slimshadybaby.github.io/categories/zookeeper/"/>
+    
+    
+      <category term="zookeeper" scheme="https://slimshadybaby.github.io/tags/zookeeper/"/>
+    
+      <category term="分布式" scheme="https://slimshadybaby.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一天一个linux命令——du</title>
+    <link href="https://slimshadybaby.github.io/2020/11/15/yi-tian-yi-ge-linux-ming-ling-du/"/>
+    <id>https://slimshadybaby.github.io/2020/11/15/yi-tian-yi-ge-linux-ming-ling-du/</id>
+    <published>2020-11-15T06:44:30.000Z</published>
+    <updated>2020-12-15T10:09:15.004Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;du命令详解&quot;&gt;&lt;a href=&quot;#du命令详解&quot; class=&quot;headerlink&quot; title=&quot;du命令详解&quot;&gt;&lt;/a&gt;du命令详解&lt;/h1&gt;&lt;h1 id=&quot;常用命令&quot;&gt;&lt;a href=&quot;#常用命令&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="https://slimshadybaby.github.io/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="https://slimshadybaby.github.io/tags/linux/"/>
+    
+      <category term="磁盘" scheme="https://slimshadybaby.github.io/tags/%E7%A3%81%E7%9B%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>zookeeper配置详解</title>
+    <link href="https://slimshadybaby.github.io/2020/11/15/zookeeper-pei-zhi-xiang-jie/"/>
+    <id>https://slimshadybaby.github.io/2020/11/15/zookeeper-pei-zhi-xiang-jie/</id>
+    <published>2020-11-15T04:51:40.000Z</published>
+    <updated>2020-12-15T10:09:15.004Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;基本配置&quot;&gt;&lt;a href=&quot;#基本配置&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="zookeeper" scheme="https://slimshadybaby.github.io/categories/zookeeper/"/>
+    
+    
+      <category term="zookeeper" scheme="https://slimshadybaby.github.io/tags/zookeeper/"/>
+    
+      <category term="分布式" scheme="https://slimshadybaby.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>zookeeper环境搭建</title>
+    <link href="https://slimshadybaby.github.io/2020/11/15/zookeeper-huan-jing-da-jian/"/>
+    <id>https://slimshadybaby.github.io/2020/11/15/zookeeper-huan-jing-da-jian/</id>
+    <published>2020-11-15T04:51:28.000Z</published>
+    <updated>2020-12-15T10:09:15.001Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;集群模式&quot;&gt;&lt;a href=&quot;#集群模式&quot; class=&quot;headerlink&quot; title=&quot;集群模式&quot;&gt;&lt;/a&gt;集群模式&lt;/h2&gt;&lt;h3 id=&quot;下载ZooKeeper&quot;&gt;&lt;a href=&quot;#下载ZooKeeper&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="zookeeper" scheme="https://slimshadybaby.github.io/categories/zookeeper/"/>
+    
+    
+      <category term="zookeeper" scheme="https://slimshadybaby.github.io/tags/zookeeper/"/>
+    
+      <category term="分布式" scheme="https://slimshadybaby.github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>win10安装anaconda环境</title>
+    <link href="https://slimshadybaby.github.io/2020/11/14/win10-an-zhuang-anaconda-huan-jing/"/>
+    <id>https://slimshadybaby.github.io/2020/11/14/win10-an-zhuang-anaconda-huan-jing/</id>
+    <published>2020-11-14T12:00:22.000Z</published>
+    <updated>2020-12-15T10:09:14.998Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;下载Anaconda&quot;&gt;&lt;a href=&quot;#下载Anaconda&quot; class=&quot;headerlink&quot; title=&quot;下载Anaconda&quot;&gt;&lt;/a&gt;下载Anaconda&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;下载地址: &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://slimshadybaby.github.io/categories/python/"/>
+    
+    
+      <category term="win10" scheme="https://slimshadybaby.github.io/tags/win10/"/>
+    
+      <category term="anaconda" scheme="https://slimshadybaby.github.io/tags/anaconda/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python-数据可视化-matplotlib</title>
+    <link href="https://slimshadybaby.github.io/2020/11/14/python-shu-ju-ke-shi-hua-matplotlib/"/>
+    <id>https://slimshadybaby.github.io/2020/11/14/python-shu-ju-ke-shi-hua-matplotlib/</id>
+    <published>2020-11-14T08:32:27.000Z</published>
+    <updated>2020-12-15T10:09:14.994Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;绘制简单的图表&quot;&gt;&lt;a href=&quot;#绘制简单的图表&quot; class=&quot;headerlink&quot; title=&quot;绘制简单的图表&quot;&gt;&lt;/a&gt;绘制简单的图表&lt;/h2&gt;&lt;h3 id=&quot;安装&quot;&gt;&lt;a href=&quot;#安装&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://slimshadybaby.github.io/categories/python/"/>
+    
+    
+      <category term="matplotib" scheme="https://slimshadybaby.github.io/tags/matplotib/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python-os库学习</title>
+    <link href="https://slimshadybaby.github.io/2020/11/14/python-os-ku-xue-xi/"/>
+    <id>https://slimshadybaby.github.io/2020/11/14/python-os-ku-xue-xi/</id>
+    <published>2020-11-14T06:32:19.000Z</published>
+    <updated>2020-12-15T10:09:14.994Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;目录操作&quot;&gt;&lt;a href=&quot;#目录操作&quot; class=&quot;headerlink&quot; title=&quot;目录操作&quot;&gt;&lt;/a&gt;目录操作&lt;/h2&gt;&lt;h3 id=&quot;常见命令&quot;&gt;&lt;a href=&quot;#常见命令&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://slimshadybaby.github.io/categories/python/"/>
+    
+    
+      <category term="python" scheme="https://slimshadybaby.github.io/tags/python/"/>
+    
+      <category term="os" scheme="https://slimshadybaby.github.io/tags/os/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python-类</title>
+    <link href="https://slimshadybaby.github.io/2020/11/14/python-lei/"/>
+    <id>https://slimshadybaby.github.io/2020/11/14/python-lei/</id>
+    <published>2020-11-14T04:28:33.000Z</published>
+    <updated>2020-12-15T10:09:14.994Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;类的初始化&quot;&gt;&lt;a href=&quot;#类的初始化&quot; class=&quot;headerlink&quot; title=&quot;类的初始化&quot;&gt;&lt;/a&gt;类的初始化&lt;/h2&gt;&lt;h3 id=&quot;init&quot;&gt;&lt;a href=&quot;#init&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://slimshadybaby.github.io/categories/python/"/>
+    
+    
+      <category term="python" scheme="https://slimshadybaby.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python函数</title>
+    <link href="https://slimshadybaby.github.io/2020/11/14/python-han-shu/"/>
+    <id>https://slimshadybaby.github.io/2020/11/14/python-han-shu/</id>
+    <published>2020-11-14T01:31:30.000Z</published>
+    <updated>2020-12-15T10:09:14.995Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;函数的定义&quot;&gt;&lt;a href=&quot;#函数的定义&quot; class=&quot;headerlink&quot; title=&quot;函数的定义&quot;&gt;&lt;/a&gt;函数的定义&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;形参: 定义函数时的占位符,没有实际的值&lt;/li&gt;
+&lt;li&gt;实参:
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://slimshadybaby.github.io/categories/python/"/>
+    
+    
+      <category term="python" scheme="https://slimshadybaby.github.io/tags/python/"/>
+    
+      <category term="函数" scheme="https://slimshadybaby.github.io/tags/%E5%87%BD%E6%95%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python集合之字典</title>
+    <link href="https://slimshadybaby.github.io/2020/11/14/python-ji-he-zhi-zi-dian/"/>
+    <id>https://slimshadybaby.github.io/2020/11/14/python-ji-he-zhi-zi-dian/</id>
+    <published>2020-11-14T00:53:35.000Z</published>
+    <updated>2020-12-15T10:09:14.995Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;字典创建&quot;&gt;&lt;a href=&quot;#字典创建&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://slimshadybaby.github.io/categories/python/"/>
+    
+    
+      <category term="python" scheme="https://slimshadybaby.github.io/tags/python/"/>
+    
+      <category term="集合" scheme="https://slimshadybaby.github.io/tags/%E9%9B%86%E5%90%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python集合之列表</title>
+    <link href="https://slimshadybaby.github.io/2020/11/13/python-ji-he-zhi-lie-biao/"/>
+    <id>https://slimshadybaby.github.io/2020/11/13/python-ji-he-zhi-lie-biao/</id>
+    <published>2020-11-13T15:21:04.000Z</published>
+    <updated>2020-12-15T10:09:14.995Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;列表的声明&quot;&gt;&lt;a href=&quot;#列表的声明&quot; class=&quot;headerlink&quot; title=&quot;列表的声明&quot;&gt;&lt;/a&gt;列表的声明&lt;/h2&gt;&lt;pre class=&quot;line-numbers language-python&quot;&gt;&lt;code
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://slimshadybaby.github.io/categories/python/"/>
+    
+    
+      <category term="python" scheme="https://slimshadybaby.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python数据类型</title>
+    <link href="https://slimshadybaby.github.io/2020/11/13/python-ji-ben-shu-ju-lei-xing/"/>
+    <id>https://slimshadybaby.github.io/2020/11/13/python-ji-ben-shu-ju-lei-xing/</id>
+    <published>2020-11-13T14:53:47.000Z</published>
+    <updated>2020-12-15T10:09:14.995Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;字符串&quot;&gt;&lt;a href=&quot;#字符串&quot; class=&quot;headerlink&quot; title=&quot;字符串&quot;&gt;&lt;/a&gt;字符串&lt;/h2&gt;&lt;h3 id=&quot;字符串的声明&quot;&gt;&lt;a href=&quot;#字符串的声明&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="python" scheme="https://slimshadybaby.github.io/categories/python/"/>
+    
+    
+      <category term="python" scheme="https://slimshadybaby.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vscode常见问题</title>
+    <link href="https://slimshadybaby.github.io/2020/11/13/vscode-chang-jian-wen-ti/"/>
+    <id>https://slimshadybaby.github.io/2020/11/13/vscode-chang-jian-wen-ti/</id>
+    <published>2020-11-13T11:58:18.000Z</published>
+    <updated>2020-12-15T10:09:14.996Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;vscode配置文件头&quot;&gt;&lt;a href=&quot;#vscode配置文件头&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="vscode" scheme="https://slimshadybaby.github.io/categories/vscode/"/>
+    
+    
+      <category term="vscode" scheme="https://slimshadybaby.github.io/tags/vscode/"/>
+    
+  </entry>
+  
+</feed>
